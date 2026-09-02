@@ -20,6 +20,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0162-find-peak-element) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/rabindrakumar9392/Java-DSA/tree/master/2164-sort-even-and-odd-indices-independently) |
 ## Binary Search
 |  |
 | ------- |
@@ -39,4 +40,8 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0151-reverse-words-in-a-string) |
+## Sorting
+|  |
+| ------- |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/rabindrakumar9392/Java-DSA/tree/master/2164-sort-even-and-odd-indices-independently) |
 <!---LeetCode Topics End-->
