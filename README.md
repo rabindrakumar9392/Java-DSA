@@ -11,6 +11,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0002-add-two-numbers) |
 | [0412-fizz-buzz](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0412-fizz-buzz) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0875-koko-eating-bananas) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1480-running-sum-of-1d-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/rabindrakumar9392/Java-DSA/tree/master/2164-sort-even-and-odd-indices-independently) |
 ## Binary Search
