@@ -26,6 +26,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0724-find-pivot-index](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0875-koko-eating-bananas) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -97,6 +98,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Matrix
 |  |
