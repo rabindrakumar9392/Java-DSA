@@ -55,6 +55,7 @@
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0006-zigzag-conversion) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0412-fizz-buzz](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0412-fizz-buzz) |
