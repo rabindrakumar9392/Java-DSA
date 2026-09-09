@@ -3,21 +3,16 @@ class Solution {
     
     int first = 0;
     int last = numbers.length-1;
-    int [] ans=new int[2];
     while(first<last){
-       
-        if(numbers[first] + numbers[last]==target){
-            ans[0]=first+1;
-            ans[1]=last+1;
-            return ans;
-
-        } 
-        else if(numbers[first] + numbers[last]>target){
+        int sum = numbers[first] + numbers[last];
+        if(sum==target){
+            return new int[] {first+1, last+1};
+        } if(sum>target){
             last--;
         } else {
             first++;
         }
     }
-    return ans;
+    return new int[] {};
     }
 }
