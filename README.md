@@ -32,6 +32,7 @@
 | [0283-move-zeroes](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0867-transpose-matrix](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0875-koko-eating-bananas) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -106,6 +107,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0412-fizz-buzz) |
+| [0867-transpose-matrix](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0867-transpose-matrix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -114,6 +116,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1672-richest-customer-wealth) |
 ## Counting Sort
