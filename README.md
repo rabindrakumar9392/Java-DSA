@@ -37,6 +37,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1572-matrix-diagonal-sum](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1672-richest-customer-wealth) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/rabindrakumar9392/Java-DSA/tree/master/2164-sort-even-and-odd-indices-independently) |
 ## Binary Search
@@ -113,6 +114,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1572-matrix-diagonal-sum](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1672-richest-customer-wealth) |
 ## Counting Sort
 |  |
