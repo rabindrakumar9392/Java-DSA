@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0001-two-sum) |
+| [0018-4sum](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -58,6 +59,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -74,6 +76,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
