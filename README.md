@@ -34,6 +34,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0875-koko-eating-bananas) |
+| [0962-maximum-width-ramp](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0962-maximum-width-ramp) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -62,6 +63,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0283-move-zeroes) |
+| [0962-maximum-width-ramp](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0962-maximum-width-ramp) |
 ## String
 |  |
 | ------- |
@@ -132,4 +134,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0169-majority-element) |
+## Stack
+|  |
+| ------- |
+| [0962-maximum-width-ramp](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0962-maximum-width-ramp) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0962-maximum-width-ramp](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0962-maximum-width-ramp) |
 <!---LeetCode Topics End-->
