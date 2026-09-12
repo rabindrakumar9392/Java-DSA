@@ -31,6 +31,7 @@
 | [0169-majority-element](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0283-move-zeroes) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0724-find-pivot-index](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0867-transpose-matrix) |
@@ -50,6 +51,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0875-koko-eating-bananas) |
 ## Ternary Search
@@ -65,6 +67,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0283-move-zeroes) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0962-maximum-width-ramp](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0962-maximum-width-ramp) |
 ## String
 |  |
@@ -79,6 +82,7 @@
 | [0018-4sum](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0217-contains-duplicate) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/rabindrakumar9392/Java-DSA/tree/master/2164-sort-even-and-odd-indices-independently) |
 ## String Matching
@@ -107,6 +111,7 @@
 | [0001-two-sum](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0217-contains-duplicate) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Simulation
 |  |
