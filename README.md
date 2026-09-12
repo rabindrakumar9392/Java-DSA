@@ -43,6 +43,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1672-richest-customer-wealth) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/rabindrakumar9392/Java-DSA/tree/master/2164-sort-even-and-odd-indices-independently) |
 ## Binary Search
 |  |
@@ -69,6 +70,7 @@
 | [0283-move-zeroes](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0283-move-zeroes) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0962-maximum-width-ramp](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0962-maximum-width-ramp) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 ## String
 |  |
 | ------- |
@@ -84,6 +86,7 @@
 | [0217-contains-duplicate](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0217-contains-duplicate) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/rabindrakumar9392/Java-DSA/tree/master/2164-sort-even-and-odd-indices-independently) |
 ## String Matching
 |  |
@@ -113,6 +116,7 @@
 | [0217-contains-duplicate](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0217-contains-duplicate) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Simulation
 |  |
 | ------- |
