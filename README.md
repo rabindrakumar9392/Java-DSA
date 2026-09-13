@@ -13,6 +13,7 @@
 | [0412-fizz-buzz](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0504-base-7) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1837-sum-of-digits-in-base-k](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1837-sum-of-digits-in-base-k) |
 ## Recursion
 |  |
 | ------- |
