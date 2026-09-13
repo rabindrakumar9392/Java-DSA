@@ -11,6 +11,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0002-add-two-numbers) |
 | [0412-fizz-buzz](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0412-fizz-buzz) |
+| [0504-base-7](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0504-base-7) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Recursion
 |  |
@@ -78,6 +79,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0412-fizz-buzz](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0412-fizz-buzz) |
+| [0504-base-7](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0504-base-7) |
 ## Sorting
 |  |
 | ------- |
