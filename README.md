@@ -157,4 +157,8 @@
 |  |
 | ------- |
 | [0962-maximum-width-ramp](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0962-maximum-width-ramp) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1009-complement-of-base-10-integer](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1009-complement-of-base-10-integer) |
 <!---LeetCode Topics End-->
