@@ -52,3 +52,11 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 ---
 
 ⭐ This repository is continuously updated as I solve more DSA problems.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3151-special-array-i](https://github.com/rabindrakumar9392/Java-DSA/tree/master/3151-special-array-i) |
+<!---LeetCode Topics End-->
