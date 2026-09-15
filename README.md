@@ -58,5 +58,6 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 ## Array
 |  |
 | ------- |
+| [0485-max-consecutive-ones](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0485-max-consecutive-ones) |
 | [3151-special-array-i](https://github.com/rabindrakumar9392/Java-DSA/tree/master/3151-special-array-i) |
 <!---LeetCode Topics End-->
