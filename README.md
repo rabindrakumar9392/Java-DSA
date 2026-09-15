@@ -81,4 +81,8 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0169-majority-element) |
+## String
+|  |
+| ------- |
+| [1446-consecutive-characters](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1446-consecutive-characters) |
 <!---LeetCode Topics End-->
