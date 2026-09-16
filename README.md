@@ -85,4 +85,16 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 |  |
 | ------- |
 | [1446-consecutive-characters](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1446-consecutive-characters) |
+## Math
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0258-add-digits) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
