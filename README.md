@@ -96,6 +96,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0258-add-digits) |
+| [2652-sum-multiples](https://github.com/rabindrakumar9392/Java-DSA/tree/master/2652-sum-multiples) |
 ## Simulation
 |  |
 | ------- |
