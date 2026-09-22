@@ -90,6 +90,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1446-consecutive-characters](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1446-consecutive-characters) |
 ## Math
@@ -113,6 +114,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0344-reverse-string) |
 | [0881-boats-to-save-people](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0881-boats-to-save-people) |
 ## Greedy
 |  |
