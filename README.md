@@ -60,6 +60,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 | ------- |
 | [0001-two-sum](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0485-max-consecutive-ones) |
@@ -122,6 +123,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0027-remove-element) |
 | [0344-reverse-string](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0344-reverse-string) |
 | [0881-boats-to-save-people](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0881-boats-to-save-people) |
 ## Greedy
