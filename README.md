@@ -108,6 +108,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 | [0509-fibonacci-number](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0509-fibonacci-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/rabindrakumar9392/Java-DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/rabindrakumar9392/Java-DSA/tree/master/2652-sum-multiples) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/rabindrakumar9392/Java-DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Simulation
 |  |
 | ------- |
@@ -152,4 +153,8 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 | ------- |
 | [0070-climbing-stairs](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0509-fibonacci-number) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/rabindrakumar9392/Java-DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
