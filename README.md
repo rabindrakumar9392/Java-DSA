@@ -59,6 +59,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0053-maximum-subarray) |
@@ -81,6 +82,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0169-majority-element) |
 | [0881-boats-to-save-people](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0881-boats-to-save-people) |
 ## Counting
@@ -128,6 +130,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0027-remove-element) |
 | [0344-reverse-string](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0344-reverse-string) |
