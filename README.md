@@ -65,6 +65,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 | [0053-maximum-subarray](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0485-max-consecutive-ones](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0485-max-consecutive-ones) |
 | [0881-boats-to-save-people](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0881-boats-to-save-people) |
 | [3151-special-array-i](https://github.com/rabindrakumar9392/Java-DSA/tree/master/3151-special-array-i) |
@@ -73,6 +74,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 | ------- |
 | [0001-two-sum](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Divide and Conquer
 |  |
@@ -160,4 +162,8 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rabindrakumar9392/Java-DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
