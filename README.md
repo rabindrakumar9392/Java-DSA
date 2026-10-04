@@ -63,6 +63,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0053-maximum-subarray) |
+| [0120-triangle](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0219-contains-duplicate-ii) |
@@ -127,6 +128,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 | ------- |
 | [0053-maximum-subarray](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0509-fibonacci-number) |
 ## Two Pointers
