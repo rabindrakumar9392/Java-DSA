@@ -116,6 +116,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 | [1486-xor-operation-in-an-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1486-xor-operation-in-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/rabindrakumar9392/Java-DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/rabindrakumar9392/Java-DSA/tree/master/2652-sum-multiples) |
+| [2769-find-the-maximum-achievable-number](https://github.com/rabindrakumar9392/Java-DSA/tree/master/2769-find-the-maximum-achievable-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rabindrakumar9392/Java-DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Simulation
 |  |
