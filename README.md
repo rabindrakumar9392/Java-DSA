@@ -70,6 +70,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 | [0485-max-consecutive-ones](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0485-max-consecutive-ones) |
 | [0881-boats-to-save-people](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0881-boats-to-save-people) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rabindrakumar9392/Java-DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3151-special-array-i](https://github.com/rabindrakumar9392/Java-DSA/tree/master/3151-special-array-i) |
 ## Hash Table
 |  |
@@ -115,6 +116,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 | [0509-fibonacci-number](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0509-fibonacci-number) |
 | [1486-xor-operation-in-an-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1486-xor-operation-in-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/rabindrakumar9392/Java-DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/rabindrakumar9392/Java-DSA/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/rabindrakumar9392/Java-DSA/tree/master/2769-find-the-maximum-achievable-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rabindrakumar9392/Java-DSA/tree/master/3345-smallest-divisible-digit-product-i) |
