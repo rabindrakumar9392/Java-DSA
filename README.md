@@ -68,6 +68,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 | [0169-majority-element](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0485-max-consecutive-ones](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0485-max-consecutive-ones) |
+| [0682-baseball-game](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0682-baseball-game) |
 | [0881-boats-to-save-people](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0881-boats-to-save-people) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rabindrakumar9392/Java-DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -128,6 +129,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 | ------- |
 | [0258-add-digits](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0415-add-strings) |
+| [0682-baseball-game](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0682-baseball-game) |
 ## Number Theory
 |  |
 | ------- |
@@ -185,4 +187,8 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/rabindrakumar9392/Java-DSA/tree/master/3024-type-of-triangle) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
