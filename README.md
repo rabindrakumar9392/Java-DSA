@@ -109,6 +109,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 | [0387-first-unique-character-in-a-string](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0657-robot-return-to-origin) |
+| [0709-to-lower-case](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0709-to-lower-case) |
 | [1446-consecutive-characters](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1446-consecutive-characters) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rabindrakumar9392/Java-DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Math
