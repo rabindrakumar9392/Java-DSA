@@ -171,6 +171,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0509-fibonacci-number](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -197,4 +198,8 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0682-baseball-game) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
