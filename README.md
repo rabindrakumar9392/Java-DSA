@@ -66,6 +66,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 | [0053-maximum-subarray](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0053-maximum-subarray) |
 | [0120-triangle](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0485-max-consecutive-ones](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0485-max-consecutive-ones) |
@@ -208,4 +209,8 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0048-rotate-image) |
+## Binary Search
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
