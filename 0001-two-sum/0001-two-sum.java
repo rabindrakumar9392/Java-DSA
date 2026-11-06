@@ -11,16 +11,27 @@ class Solution {
         // return null;
 
         //approach 2:
+        // Map<Integer, Integer> map = new HashMap<>();
+        // for(int i=0; i<nums.length; i++){
+        //     map.put(nums[i], i);
+        // }
+        // for(int i=0; i<nums.length; i++){
+        //     int remain = target-nums[i];
+        //     if(map.containsKey(remain) && map.get(remain) != i){
+        //         return new int[] {i, map.get(remain)};
+        //     }
+        // }  
+        // return null; 
+
+        //approach 3:
         Map<Integer, Integer> map = new HashMap<>();
         for(int i=0; i<nums.length; i++){
-            map.put(nums[i], i);
-        }
-        for(int i=0; i<nums.length; i++){
             int remain = target-nums[i];
-            if(map.containsKey(remain) && map.get(remain) != i){
+            if(map.containsKey(remain)){
                 return new int[] {i, map.get(remain)};
             }
-        }  
-        return null; 
+             map.put(nums[i], i);
+        }
+        return null;
     }
 }
