@@ -81,6 +81,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -108,6 +109,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0012-integer-to-roman) |
 | [0344-reverse-string](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0415-add-strings) |
@@ -119,6 +121,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0258-add-digits) |
