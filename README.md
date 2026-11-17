@@ -111,6 +111,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0415-add-strings) |
@@ -204,6 +205,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0682-baseball-game) |
 ## Linked List
 |  |
@@ -218,4 +220,8 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0162-find-peak-element) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
