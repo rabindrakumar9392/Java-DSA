@@ -115,6 +115,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 | ------- |
 | [0012-integer-to-roman](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0020-valid-parentheses) |
+| [0241-different-ways-to-add-parentheses](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0344-reverse-string](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0415-add-strings) |
@@ -129,6 +130,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 | [0012-integer-to-roman](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0509-fibonacci-number) |
@@ -157,6 +159,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 | [0070-climbing-stairs](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0241-different-ways-to-add-parentheses](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0509-fibonacci-number](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -183,11 +186,13 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0241-different-ways-to-add-parentheses](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0509-fibonacci-number](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0509-fibonacci-number](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0509-fibonacci-number) |
 ## Enumeration
 |  |
@@ -227,6 +232,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0020-valid-parentheses) |
+| [0241-different-ways-to-add-parentheses](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0241-different-ways-to-add-parentheses) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
