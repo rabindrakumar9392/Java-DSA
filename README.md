@@ -64,6 +64,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 | [0027-remove-element](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -94,6 +95,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0169-majority-element) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0493-reverse-pairs) |
@@ -296,4 +298,16 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 | ------- |
 | [0278-first-bad-version](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0374-guess-number-higher-or-lower) |
+## Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
