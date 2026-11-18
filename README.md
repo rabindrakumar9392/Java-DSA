@@ -236,6 +236,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 | [0162-find-peak-element](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0278-first-bad-version) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0374-guess-number-higher-or-lower](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0493-reverse-pairs](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0493-reverse-pairs) |
 ## Bracket Sequences
 |  |
@@ -294,4 +295,5 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
