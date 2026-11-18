@@ -72,6 +72,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 | [0219-contains-duplicate-ii](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0485-max-consecutive-ones](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0493-reverse-pairs) |
 | [0682-baseball-game](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0682-baseball-game) |
 | [0881-boats-to-save-people](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0912-sort-an-array) |
@@ -95,6 +96,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 | [0053-maximum-subarray](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0169-majority-element) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
@@ -233,6 +235,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0162-find-peak-element) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0493-reverse-pairs) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -248,6 +251,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -269,16 +273,20 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0493-reverse-pairs) |
 ## Segment Tree
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0493-reverse-pairs) |
 ## Treap
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
