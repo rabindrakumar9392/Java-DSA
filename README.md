@@ -71,6 +71,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 | [0162-find-peak-element](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0219-contains-duplicate-ii) |
+| [0283-move-zeroes](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0283-move-zeroes) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0485-max-consecutive-ones](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0493-reverse-pairs) |
@@ -180,6 +181,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 | [0015-3sum](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0027-remove-element) |
+| [0283-move-zeroes](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0344-reverse-string) |
 | [0881-boats-to-save-people](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0905-sort-array-by-parity) |
