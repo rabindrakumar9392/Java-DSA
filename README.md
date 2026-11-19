@@ -71,6 +71,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 | [0162-find-peak-element](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0283-move-zeroes) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0485-max-consecutive-ones](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0485-max-consecutive-ones) |
@@ -93,6 +94,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 | [0012-integer-to-roman](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Divide and Conquer
 |  |
@@ -109,6 +111,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 | ------- |
 | [0015-3sum](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0268-missing-number) |
 | [0881-boats-to-save-people](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0912-sort-an-array) |
@@ -146,6 +149,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 | [0070-climbing-stairs](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0509-fibonacci-number) |
 | [1486-xor-operation-in-an-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1486-xor-operation-in-an-array) |
@@ -222,6 +226,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0268-missing-number) |
 | [1486-xor-operation-in-an-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1486-xor-operation-in-an-array) |
 ## Polygons
 |  |
@@ -246,6 +251,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0278-first-bad-version) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0374-guess-number-higher-or-lower](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0374-guess-number-higher-or-lower) |
