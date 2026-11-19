@@ -65,6 +65,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 | [0048-rotate-image](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -175,6 +176,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 | ------- |
 | [0053-maximum-subarray](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0241-different-ways-to-add-parentheses](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0241-different-ways-to-add-parentheses) |
