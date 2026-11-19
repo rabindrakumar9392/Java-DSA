@@ -78,6 +78,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 | [0881-boats-to-save-people](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0912-sort-an-array) |
+| [0922-sort-array-by-parity-ii](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rabindrakumar9392/Java-DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -109,6 +110,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 | [0881-boats-to-save-people](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0912-sort-an-array) |
+| [0922-sort-array-by-parity-ii](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [3024-type-of-triangle](https://github.com/rabindrakumar9392/Java-DSA/tree/master/3024-type-of-triangle) |
 ## Counting
 |  |
@@ -179,6 +181,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 | [0344-reverse-string](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0344-reverse-string) |
 | [0881-boats-to-save-people](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Greedy
 |  |
