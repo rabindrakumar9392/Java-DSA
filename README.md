@@ -79,6 +79,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 | [0905-sort-array-by-parity](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0922-sort-array-by-parity-ii) |
+| [1051-height-checker](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1051-height-checker) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rabindrakumar9392/Java-DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -111,6 +112,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 | [0905-sort-array-by-parity](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0922-sort-array-by-parity-ii) |
+| [1051-height-checker](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1051-height-checker) |
 | [3024-type-of-triangle](https://github.com/rabindrakumar9392/Java-DSA/tree/master/3024-type-of-triangle) |
 ## Counting
 |  |
@@ -275,6 +277,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1051-height-checker) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -316,4 +319,8 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
