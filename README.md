@@ -85,6 +85,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 | [1051-height-checker](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1051-height-checker) |
 | [1672-richest-customer-wealth](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1920-build-array-from-permutation) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/rabindrakumar9392/Java-DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rabindrakumar9392/Java-DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -142,6 +143,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 | [0657-robot-return-to-origin](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0709-to-lower-case) |
 | [1446-consecutive-characters](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1446-consecutive-characters) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/rabindrakumar9392/Java-DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rabindrakumar9392/Java-DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Math
@@ -170,6 +172,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 | [0657-robot-return-to-origin](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0682-baseball-game) |
 | [1920-build-array-from-permutation](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1920-build-array-from-permutation) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/rabindrakumar9392/Java-DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Number Theory
 |  |
 | ------- |
