@@ -83,6 +83,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 | [0912-sort-an-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1051-height-checker) |
+| [1672-richest-customer-wealth](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1920-build-array-from-permutation) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rabindrakumar9392/Java-DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -250,6 +251,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0048-rotate-image) |
+| [1672-richest-customer-wealth](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1672-richest-customer-wealth) |
 ## Binary Search
 |  |
 | ------- |
