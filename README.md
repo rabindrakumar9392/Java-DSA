@@ -87,6 +87,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 | [1470-shuffle-the-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1512-number-of-good-pairs) |
+| [1528-shuffle-string](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1528-shuffle-string) |
 | [1672-richest-customer-wealth](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/rabindrakumar9392/Java-DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -153,6 +154,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 | [0709-to-lower-case](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0771-jewels-and-stones) |
 | [1446-consecutive-characters](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1446-consecutive-characters) |
+| [1528-shuffle-string](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1528-shuffle-string) |
 | [1678-goal-parser-interpretation](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1678-goal-parser-interpretation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/rabindrakumar9392/Java-DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
