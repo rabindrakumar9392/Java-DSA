@@ -83,6 +83,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 | [0912-sort-an-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1051-height-checker) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1512-number-of-good-pairs) |
@@ -103,6 +104,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 | [0219-contains-duplicate-ii](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1512-number-of-good-pairs) |
 ## Divide and Conquer
 |  |
@@ -125,6 +127,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 | [0912-sort-an-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1051-height-checker) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3024-type-of-triangle](https://github.com/rabindrakumar9392/Java-DSA/tree/master/3024-type-of-triangle) |
 ## Counting
 |  |
@@ -301,6 +304,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 | ------- |
 | [0912-sort-an-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1051-height-checker) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Tournament Sort
 |  |
 | ------- |
