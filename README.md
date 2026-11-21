@@ -104,6 +104,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 | [0219-contains-duplicate-ii](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0771-jewels-and-stones](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1512-number-of-good-pairs) |
 ## Divide and Conquer
@@ -150,6 +151,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 | [0415-add-strings](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0771-jewels-and-stones) |
 | [1446-consecutive-characters](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1446-consecutive-characters) |
 | [1678-goal-parser-interpretation](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1678-goal-parser-interpretation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/rabindrakumar9392/Java-DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
