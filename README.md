@@ -85,6 +85,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 | [1051-height-checker](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1051-height-checker) |
 | [1470-shuffle-the-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/rabindrakumar9392/Java-DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -102,6 +103,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 | [0219-contains-duplicate-ii](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [1512-number-of-good-pairs](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1512-number-of-good-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -129,6 +131,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 | ------- |
 | [0169-majority-element](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [1512-number-of-good-pairs](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1512-number-of-good-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -160,6 +163,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 | [0415-add-strings](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0509-fibonacci-number) |
 | [1486-xor-operation-in-an-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1486-xor-operation-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1512-number-of-good-pairs) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/rabindrakumar9392/Java-DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/rabindrakumar9392/Java-DSA/tree/master/2652-sum-multiples) |
