@@ -84,6 +84,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 | [0922-sort-array-by-parity-ii](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1051-height-checker) |
 | [1470-shuffle-the-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1470-shuffle-the-array) |
+| [1480-running-sum-of-1d-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/rabindrakumar9392/Java-DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -341,4 +342,8 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1051-height-checker) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
