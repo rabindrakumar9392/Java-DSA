@@ -172,6 +172,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 | [0268-missing-number](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0509-fibonacci-number) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1512-number-of-good-pairs) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1812-determine-color-of-a-chessboard-square) |
