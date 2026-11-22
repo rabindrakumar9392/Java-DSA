@@ -157,6 +157,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 | [1446-consecutive-characters](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1446-consecutive-characters) |
 | [1528-shuffle-string](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1528-shuffle-string) |
 | [1678-goal-parser-interpretation](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1678-goal-parser-interpretation) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/rabindrakumar9392/Java-DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rabindrakumar9392/Java-DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -173,6 +174,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 | [0509-fibonacci-number](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0509-fibonacci-number) |
 | [1486-xor-operation-in-an-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1512-number-of-good-pairs) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/rabindrakumar9392/Java-DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
