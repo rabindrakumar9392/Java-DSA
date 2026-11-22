@@ -1,16 +1,12 @@
 class Solution {
     public int countDigits(int num) {
-        if(num==0){
-            return 0;
-        }
-        int temp=num;
         int count = 0;
-        while(temp!=0){
-            int val = temp%10;
-            if(num%val == 0){
+        String s = String.valueOf(num);
+        for (int i = 0; i < s.length(); i++) {
+            int digit = s.charAt(i) - '0';
+            if (num % digit == 0) {
                 count++;
             }
-            temp /= 10;
         }
         return count;
     }
