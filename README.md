@@ -180,6 +180,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 | [1822-sign-of-the-product-of-an-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/rabindrakumar9392/Java-DSA/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/rabindrakumar9392/Java-DSA/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/rabindrakumar9392/Java-DSA/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/rabindrakumar9392/Java-DSA/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/rabindrakumar9392/Java-DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rabindrakumar9392/Java-DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -200,6 +201,7 @@ This repository contains my ongoing LeetCode practice and Java solutions, with a
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/rabindrakumar9392/Java-DSA/tree/master/0258-add-digits) |
+| [2413-smallest-even-multiple](https://github.com/rabindrakumar9392/Java-DSA/tree/master/2413-smallest-even-multiple) |
 ## Dynamic Programming
 |  |
 | ------- |
